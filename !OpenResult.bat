@@ -1,0 +1,1 @@
+start firefox.exe "target/site/allure-maven-plugin/index.html#/home"
